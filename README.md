@@ -11,12 +11,6 @@
 - [Público-alvo](#-público-alvo)
 - [Métodos abordados](#-métodos-abordados)
 - [Estrutura do repositório](#-estrutura-do-repositório)
-- [Autônomo](#-autônomo)
-- [Lançamento de artefatos](#-lançamento-de-artefatos)
-- [Como utilizar este repositório](#-como-utilizar-este-repositório)
-- [Status do projeto](#-status-do-projeto)
-- [Contribuição](#-contribuição)
-- [Autor](#-autor)
 
 ---
 
@@ -67,6 +61,11 @@ FTC/
 ├── lancamento-artefatos/
 │   ├── conceitos.md
 │   ├── mecanica.md
+│   ├── exemplos.md
 │   └── testes.md
+├── Limelight/
+│   ├── conceitos.md
+│   ├── estrategias.md
+│   └── exemplos/
 └── docs/
     └── guias-gerais.md
